@@ -40,7 +40,7 @@ The data was queried to determine key metrics about home sales data.  The comple
 #### What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query.
 <img src="ReadMe Pics/Pic 8.png" width="272" height="476">
 
-# The temporary table was cached, and the final query was re-run to check for processing time improvements
+## The temporary table was cached, and the final query was re-run to check for processing time improvements
 <img src="ReadMe Pics/Pic 9.png" width="286" height="480">
 
 
