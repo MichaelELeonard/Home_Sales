@@ -53,35 +53,5 @@ When comparing the time results between the original #4 query on the original da
 <br>
 <img src="ReadMe Pics/Pic 11.png" width="366" height="274">
 
-
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<img src="ReadMe Pics/Pic 11.png" width="366" height="274">
-<img src="ReadMe Pics/Cover Pic 2.png" width="843" height="413">
-<img src="ReadMe Pics/Cover Pic 3.png" width="731" height="471">
 <img src="ReadMe Pics/Cover Pic 4.png" width="827" height="312">
-
-
-
-# Background
-The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures.  A CSV was received from the Alphabet Soup’s business team, containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Utilize machine learning and neural networks to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
-<br>
-
-# Preprocessing
-The data was read into a Pandas DataFrame and the EIN and NAME columns were removed.  The variable ‘Is Successful’ was identified to be the ‘target’ of the model with the ‘feature’ variables to include: 
-<br>
-<br>
-
-* Application Type
-* Affiliation
-* Classification
-* Use Case
-* Organization
-* Status
-* Income Amt
