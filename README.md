@@ -11,20 +11,22 @@ In this challenge, we were tasked to use SparkSQL to determine key metrics about
 <img src="ReadMe Pics/Pic 1.png" width="919" height="452">
 <img src="ReadMe Pics/Pic 2.png" width="349" height="225">
 
-
-
-
+The data was then cast to the appropriate datatypes, and a ‘year_sold’ column was established and populated.   
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
 <img src="ReadMe Pics/Pic 3.png" width="372" height="249">
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <img src="ReadMe Pics/Pic 5.png" width="215" height="145">
 <img src="ReadMe Pics/Pic 6.png" width="214" height="220">
 <img src="ReadMe Pics/Pic 7.png" width="218" height="215">
