@@ -23,22 +23,26 @@ Finally, a temporary view of the DataFrame was established to prepare the data t
 
 
 # Quiring the data using SparkSQL
-The data was queried to determine key metrics about home sales data.
+##The data was queried to determine key metrics about home sales data.
 
 <br>
-## What is the average price for a four-bedroom house sold for each year?
+
+### What is the average price for a four-bedroom house sold for each year?
 <img src="ReadMe Pics/Pic 5.png" width="215" height="145">
 
 <br>
-##What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
+
+### What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
 <img src="ReadMe Pics/Pic 6.png" width="214" height="220">
 
 <br>
-## What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
+
+### What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
 <img src="ReadMe Pics/Pic 7.png" width="218" height="215">
 
 <br>
-## What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query.
+
+### What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query.
 <img src="ReadMe Pics/Pic 8.png" width="272" height="476">
 
 
