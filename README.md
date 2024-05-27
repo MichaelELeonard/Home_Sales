@@ -48,7 +48,8 @@ The data was queried to determine key metrics about home sales data.  The comple
 <img src="ReadMe Pics/Pic 10.png" width="285" height="481">
 
 # Summary
-When comparing the time results 
+When comparing the time results between the original #4 query on the original dataset, the cached data, and the partition cached data increased processing times were observed.  The cached data showed a 55.61% performance improvement, and the partition cached data showed a 62.66% performance improvement over the processing time of the original query.  The runtimes between the three queries can be seen below.      
+<img src="ReadMe Pics/Pic 11.png" width="366" height="274">
 
 
 <br>
