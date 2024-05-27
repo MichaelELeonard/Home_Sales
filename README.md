@@ -1,17 +1,17 @@
 # Week 22 Challenge – Big data
+<img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 
 <img src="ReadMe Pics/Pic 1.png" width="919" height="452">
 <img src="ReadMe Pics/Pic 2.png" width="349" height="225">
-<img src="ReadMe Pics/Pic 3.png" width="372" height="249">
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
+<img src="ReadMe Pics/Pic 3.png" width="372" height="249">
 <img src="ReadMe Pics/Pic 5.png" width="215" height="145">
 <img src="ReadMe Pics/Pic 6.png" width="214" height="220">
 <img src="ReadMe Pics/Pic 7.png" width="218" height="215">
 <img src="ReadMe Pics/Pic 8.png" width="295" height="484">
-<img src="ReadMe Pics/Pic 9.png" width="227" height="483">
+<img src="ReadMe Pics/Pic 9.png" width="277" height="483">
 <img src="ReadMe Pics/Pic 10.png" width="288" height="491">
 <img src="ReadMe Pics/Pic 11.png" width="347" height="276">
-<img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 <img src="ReadMe Pics/Cover Pic 2.png" width="843" height="413">
 <img src="ReadMe Pics/Cover Pic 3.png" width="731" height="471">
 <img src="ReadMe Pics/Cover Pic 4.png" width="827" height="312">
