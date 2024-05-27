@@ -5,19 +5,24 @@
 In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal we needed to use Spark to create temporary views, partition the data, and cache and uncache the data.
 
 # Preprocessing
- To start, home_sales_revised.csv was downloaded from a S3 bucket and read into a DataFrame  
+ To start, home_sales_revised.csv was downloaded from an S3 bucket and read into a DataFrame. The datatypes were then viewed to assess if they needed to be updated. 
 
 <br>
 <img src="ReadMe Pics/Pic 1.png" width="919" height="452">
-
-
-
-
-
-
-
-<img src="ReadMe Pics/Pic 1.png" width="919" height="452">
 <img src="ReadMe Pics/Pic 2.png" width="349" height="225">
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
 <img src="ReadMe Pics/Pic 3.png" width="372" height="249">
 <img src="ReadMe Pics/Pic 5.png" width="215" height="145">
