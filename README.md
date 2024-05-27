@@ -22,7 +22,7 @@ Finally, a temporary view of the DataFrame was established to prepare the data t
 
 
 
-# Create a temporary view of the DataFrame.
+# Quiring the data using Pyspark.sql
 
 <br>
 <br>
