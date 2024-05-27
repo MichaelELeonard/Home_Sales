@@ -22,6 +22,7 @@ Finally, a temporary view of the DataFrame was established to prepare the data t
 
 
 <br>
+
 # Quiring the data using SparkSQL
 The data was queried to determine key metrics about home sales data.
 
