@@ -2,7 +2,7 @@
 <img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 
 # Background
-In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal we needed to use Spark to create temporary views, partition the data, and cache and uncache the data.
+In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal, we needed to use Spark to create temporary views, partition the data, and cache and uncache the data.
 
 # Preprocessing
  To start, home_sales_revised.csv was downloaded from an S3 bucket and read into a DataFrame. The datatypes were then viewed to assess if they needed to be updated. 
@@ -17,7 +17,12 @@ The data was then cast to the appropriate datatypes, and a ‘year_sold’ colum
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
 <img src="ReadMe Pics/Pic 3.png" width="372" height="249">
 
+Finally, a temporary view of the DataFrame was established to prepare the data to be queried.
 
+
+
+
+# Create a temporary view of the DataFrame.
 
 <br>
 <br>
