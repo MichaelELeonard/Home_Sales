@@ -28,16 +28,16 @@ The data was queried to determine key metrics about home sales data.  The comple
 
 <br>
 
-#### What is the average price for a four-bedroom house sold for each year?
+#### Query # 1 - What is the average price for a four-bedroom house sold for each year?
 <img src="ReadMe Pics/Pic 5.png" width="215" height="145">
 
-#### What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
+#### Query # 2 - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms?
 <img src="ReadMe Pics/Pic 6.png" width="214" height="220">
 
-#### What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
+#### Query # 3 - What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
 <img src="ReadMe Pics/Pic 7.png" width="218" height="215">
 
-#### What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query.
+#### Query # 4 - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query.
 <img src="ReadMe Pics/Pic 8.png" width="272" height="476">
 
 ## The temporary table was cached, and the final query was re-run to check for processing time improvements
@@ -47,7 +47,8 @@ The data was queried to determine key metrics about home sales data.  The comple
 ## The cached table was partition by the ‘date_built’ field and the final query was re-run to check for processing time improvements
 <img src="ReadMe Pics/Pic 10.png" width="285" height="481">
 
-
+# Summary
+When comparing the time results 
 
 
 <br>
