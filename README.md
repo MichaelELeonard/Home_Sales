@@ -44,17 +44,20 @@ The data was queried to determine key metrics about home sales data.  The comple
 <img src="ReadMe Pics/Pic 9.png" width="286" height="480">
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+## The cached table was partition by the ‘date_built’ field and the final query was re-run to check for processing time improvements
 <img src="ReadMe Pics/Pic 10.png" width="285" height="481">
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <img src="ReadMe Pics/Pic 11.png" width="366" height="274">
 <img src="ReadMe Pics/Cover Pic 2.png" width="843" height="413">
 <img src="ReadMe Pics/Cover Pic 3.png" width="731" height="471">
