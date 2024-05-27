@@ -1,6 +1,21 @@
 # Week 22 Challenge – Big data
 <img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 
+# Background
+In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal we needed to use Spark to create temporary views, partition the data, and cache and uncache the data.
+
+# Preprocessing
+ To start, home_sales_revised.csv was downloaded from a S3 bucket and read into a DataFrame  
+
+<br>
+<img src="ReadMe Pics/Pic 1.png" width="919" height="452">
+
+
+
+
+
+
+
 <img src="ReadMe Pics/Pic 1.png" width="919" height="452">
 <img src="ReadMe Pics/Pic 2.png" width="349" height="225">
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
