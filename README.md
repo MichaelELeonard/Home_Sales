@@ -1,7 +1,7 @@
 <img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 
-# Big Data Challenge
-Big Data Challenge code - https://github.com/MichaelELeonard/Home_Sales/blob/main/Home_Sales_Working.ipynb
+# SparkSQL Challenge
+SparkSQL Challenge code - https://github.com/MichaelELeonard/Home_Sales/blob/main/Home_Sales_Working.ipynb
 
 # Background
 In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal, we needed to use Spark to create temporary views, partition data, and cache and uncache data.
