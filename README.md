@@ -22,8 +22,6 @@ The data was then cast to the appropriate datatypes, and a ‘year_sold’ colum
 
 
 
-<br>
-
 # Quiring the data using SparkSQL
 The data was queried to determine key metrics about home sales data.  The completed queries are as follows:
 <br>
