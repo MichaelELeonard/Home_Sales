@@ -19,7 +19,6 @@ The data was then cast to the appropriate datatypes, and a ‘year_sold’ colum
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
 <img src="ReadMe Pics/Pic 3.png" width="372" height="249">
 
-Finally, a temporary view of the DataFrame was established to prepare the data to be queried.
 
 
 
