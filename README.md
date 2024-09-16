@@ -1,4 +1,4 @@
-<img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
+<img src="ReadMe Pics/Header.png" width="627" height="281">
 
 # SparkSQL Challenge
 SparkSQL Challenge code - https://github.com/MichaelELeonard/Home_Sales/blob/main/Home_Sales_Working.ipynb
@@ -13,7 +13,7 @@ In this challenge, we were tasked to use SparkSQL to determine key metrics about
 <img src="ReadMe Pics/Pic 1.png" width="919" height="452">
 <img src="ReadMe Pics/Pic 2.png" width="349" height="225">
 
-The data was then cast to the appropriate datatypes, and a ‘year_sold’ column was established and populated.   
+The data was then cast to the appropriate datatypes, and a ‘year sold’ column was established and populated.   
 
 <br>
 <img src="ReadMe Pics/Pic 4.png" width="1025" height="449">
@@ -51,6 +51,4 @@ Query #4 was cached and partitioned to compare query processing speed improvemen
 <br>
 <img src="ReadMe Pics/Pic 11.png" width="366" height="274">
 
-<br>
-<img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
 
