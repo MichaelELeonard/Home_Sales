@@ -52,4 +52,5 @@ Query #4 was cached and partitioned to compare query processing speed improvemen
 <img src="ReadMe Pics/Pic 11.png" width="366" height="274">
 
 <br>
-<img src="ReadMe Pics/Cover Pic 4.png" width="827" height="312">
+<img src="ReadMe Pics/Cover Pic 1.png" width="817" height="456">
+
