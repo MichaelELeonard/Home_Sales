@@ -1,4 +1,4 @@
-<img src="ReadMe Pics/Header.png" width="627" height="281">
+<img src="ReadMe Pics/Header.png" width="783" height="351">
 
 # SparkSQL Challenge
 SparkSQL Challenge code - https://github.com/MichaelELeonard/Home_Sales/blob/main/Home_Sales_Working.ipynb
