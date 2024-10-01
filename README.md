@@ -4,7 +4,7 @@
 [SparkSQL Challenge Code Link]( https://github.com/MichaelELeonard/Home_Sales/blob/main/Home_Sales_Working.ipynb)
 
 ## Background
-In this challenge, we were tasked to use SparkSQL to determine key metrics about home sales data. To accomplish this goal, we needed to use Spark to create temporary views, partition data, and cache and uncache data.
+In this challenge, we were tasked to use SparkSQL to determine key metrics regarding home sales data. To accomplish this goal, we needed to use Spark to create temporary views, partition data, and cache and uncache data.
 
 ## Preprocessing
  To start, home_sales_revised.csv was downloaded from an S3 bucket and read into a DataFrame. The datatypes were then viewed to assess if they needed to be updated. 
