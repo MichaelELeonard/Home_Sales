@@ -22,7 +22,7 @@ The data was then cast to the appropriate datatypes, and a ‘year sold’ colum
 
 
 
-# Quiring the data using SparkSQL
+## Quiring the data using SparkSQL
 The data was queried to determine key metrics about home sales data.  The completed queries are as follows:
 <br>
 
@@ -45,7 +45,7 @@ The data was queried to determine key metrics about home sales data.  The comple
 #### The cached data was partition by the ‘date_built’ field and Query #4 was re-run to check for processing time improvements
 <img src="ReadMe Pics/Query 4 Partitioned.png" width="285" height="481">
 
-# Query #4 Cashing and Partition Results
+## Query #4 Cashing and Partition Results
 Query #4 was cached and partitioned to compare query processing speed improvements.  When comparing the processing time results between the original dataset, cached data, and the partition/cached data, increased processing times were observed.  The cached data showed a 55.61% performance improvement, and the partition/cached data showed a 62.66% performance improvement over the processing time of the original query.  The runtimes between the three queries can be seen below.      
 
 <br>
